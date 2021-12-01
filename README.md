@@ -13,9 +13,9 @@ I am a **Computer Science** Student at *Symbiosis Skills and Professional Univer
 - Data Structures and Algorithm
 
 ## About me
-- Currently I am staying in ***Pune***, but from **Rajasthan**.
+- Currently I am staying in **Pune**, but from **Rajasthan**.
 - My Hobbies include playing ***Cricket*** and ***Kabaddi***.
-- Love *riding bike* and going for long rides!
+- Love *riding bike* and going for *long rides*!
 - Aspiring **Software Developer!**
 
 ## Contact me!
