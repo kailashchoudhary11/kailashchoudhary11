@@ -21,7 +21,7 @@ I am a **Computer Science** Student at *Symbiosis Skills and Professional Univer
 ## Contact me!
 
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=kailashchoudhary11&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=kailashchoudhary11&show_icons=true&theme=jolly" 
 />
 <!-- [![Twitter Image](https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-jumbo-v4.jpg?quality=75&auto=webp)](https://www.google.com) -->
 
