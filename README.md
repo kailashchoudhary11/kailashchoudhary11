@@ -18,9 +18,9 @@ He/Him/His
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashchoudhary11&layout=compact)
 
 ## About me
-- Currently I am staying in **Pune**, but from **Rajasthan**.
-- My Hobbies include playing ***Cricket*** and ***Kabaddi***.
-- Love *riding bike* and going for *long rides*!
+- **Competitive Programmer**
+- Hobbies include playing *outdoor games*, *riding*
+- Love Exploring new things
 - Aspiring **Software Developer!**
 
 ## 📫 How to reach me:
