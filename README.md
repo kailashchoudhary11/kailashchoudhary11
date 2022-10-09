@@ -1,4 +1,8 @@
+## My Holopin Badges
 [![@kai_11's Holopin board](https://holopin.io/api/user/board?user=kai_11)](https://holopin.io/@kai_11)
+
+## Novu Badges
+<a href="https://novu.co/contributors/kailashchoudhary11/"><img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" /></a>
 
 <!-- <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjY6lMpAMavOhS5PluFlxyk6xF5CXdmrjCi6ROfDMIRG8UHPAPcaECQwPveeQCd-0OOfdc6S-OKnMivDCNDFIi5Jz8u43EKATF1S11qEFyIcB5lqRiPGh_aTgVNJOeTrSVhrxw3ZyjnQhcMMvL1WL7dFp9VpLABZ3VruSTqtcvVORtaWKi8IR1vgxRd=s1920" height="250px"/> -->
 <h1 align="center">Hi 👋, I'm Kailash Choudhary</h1>
