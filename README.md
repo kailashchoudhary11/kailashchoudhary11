@@ -1,5 +1,5 @@
 ## My Holopin Badges From HACKTOBERFEST
-[![@kai_11's Holopin board](https://holopin.io/api/user/board?user=kai_11)](https://holopin.io/@kai_11)
+[![@kai_11's Holopin board](https://holopin.me/kai_11)](https://holopin.io/@kai_11)
 
 ## Novu Badges
 <a href="https://novu.co/contributors/kailashchoudhary11/"><img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" /></a>
