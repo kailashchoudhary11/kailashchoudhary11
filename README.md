@@ -3,6 +3,7 @@
 [![@kai_11's Holopin board](https://holopin.me/kai_11)](https://holopin.io/@kai_11)
 
 ## Novu Medal Of Contribution
+<a href="https://novu.co/contributors/kailashchoudhary11/"><img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" /></a>
 
 <!-- <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjY6lMpAMavOhS5PluFlxyk6xF5CXdmrjCi6ROfDMIRG8UHPAPcaECQwPveeQCd-0OOfdc6S-OKnMivDCNDFIi5Jz8u43EKATF1S11qEFyIcB5lqRiPGh_aTgVNJOeTrSVhrxw3ZyjnQhcMMvL1WL7dFp9VpLABZ3VruSTqtcvVORtaWKi8IR1vgxRd=s1920" height="250px"/> -->
 <h1 align="center">Hi 👋, I'm Kailash Choudhary</h1>
@@ -17,6 +18,9 @@
 - 📫 How to reach me **kaijat108@gmail.com**
 
 - 😄 Pronouns: He/Him/His
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
