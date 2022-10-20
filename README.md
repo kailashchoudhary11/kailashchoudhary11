@@ -10,6 +10,8 @@
 
 - 😄 Pronouns: He/Him/His
 
+### Open To Collaborate on Open Source Projects!
+
 ### 🤝 Connect with me on
 
 <a href="https://twitter.com/codewithkai" target="_blank" rel="noopener">
