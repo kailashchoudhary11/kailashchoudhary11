@@ -14,13 +14,16 @@
 
 ### 🤝 Connect with me on
 
+
+[![Discord](https://discord.c99.nl/widget/theme-3/844025480687386695.png)](https://discordapp.com/users/kai_11#4616)
+
 <a href="https://twitter.com/codewithkai" target="_blank" rel="noopener">
     <img width="20" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
 </a> 
 <a href="https://www.linkedin.com/in/kailash-choudhary-9b0859218/" target="_blank" rel="noopener">
     <img width="20" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
 </a> 
-<a href="discordapp.com/users/kai_11#4616" target="_blank" rel="noopener">
+<a href="https://discordapp.com/users/kai_11#4616" target="_blank" rel="noopener">
     <img width="20" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/discord_message_interaction_logo_communication-512.png" alt="Discord">
 </a> 
 <!-- <a href="https://vas.cx/gtel">
