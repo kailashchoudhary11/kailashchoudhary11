@@ -14,7 +14,6 @@
 
 ### 🤝 Connect with me on
 
-
 [![Discord](https://discord.c99.nl/widget/theme-3/844025480687386695.png)](https://discordapp.com/users/kai_11#4616)
 
 <a href="https://twitter.com/codewithkai" target="_blank" rel="noopener">
@@ -50,6 +49,7 @@
 [![@kai_11's Holopin board](https://holopin.me/kai_11)](https://holopin.io/@kai_11)
 
 ### Novu Contributor Badge
+
 <a href="https://novu.co/contributors/kailashchoudhary11/"><img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" /></a>
 
 <!--
