@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kailash Choudhary</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **django, python, java, c**
+- 💬 Ask me about **react, django, python, java, c**
 
 - 📫 How to reach me **kaijat108@gmail.com**
 
