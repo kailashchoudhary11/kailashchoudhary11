@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Kailash Choudhary</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on [gssoc-projects](https://github.com/kailashchoudhary11/gssoc-projects)
 
-- 💬 Ask me about **react, django, python, java, c**
+- 🌱 I’m currently learning **Go**
 
-- 📫 How to reach me **kaijat108@gmail.com**
+- 💬 Ask me about **Python, Javascript, React, Django**
+
+- 📫 How to reach me **kailashjat604@gmail.com**
 
 - 😄 Pronouns: He/Him/His
 
@@ -37,10 +39,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashchoudhary11&theme=blue-green)
 
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
 ### GitHub Stats:
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -56,11 +54,10 @@
 
 [![@kai_11's Holopin board](https://holopin.me/kai_11)](https://holopin.io/@kai_11)
 
-### Novu Contributor Badge
+<!-- ### Novu Contributor Badge
 
 <a href="https://novu.co/contributors/kailashchoudhary11/"><img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" /></a>
 
-<!--
 **kailashchoudhary11/kailashchoudhary11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
