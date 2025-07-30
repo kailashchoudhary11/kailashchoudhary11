@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kailash Choudhary</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [gssoc-projects](https://github.com/kailashchoudhary11/gssoc-projects)
+- 🔭 I’m currently working on [repo-guard](https://github.com/kailashchoudhary11/repo-guard)
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Python, Javascript, React, Django**
+- 💬 Ask me about **Python, Golang, Javascript, FastAPI, gRPC, Django**
 
 - 📫 How to reach me **kailashjat604@gmail.com**
 
@@ -46,10 +46,11 @@
 </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashchoudhary11&theme=jolly" width="48%" >
 
-### Leetcode Stats:
+<!-- ### Leetcode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kai_11?theme=unicorn)
 
+-->
 ### My Holopin Badges
 
 [![@kai_11's Holopin board](https://holopin.me/kai_11)](https://holopin.io/@kai_11)
