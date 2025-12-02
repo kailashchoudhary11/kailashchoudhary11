@@ -35,16 +35,16 @@
 </a> -->
 <br> <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashchoudhary11&theme=blue-green)
 
-### GitHub Stats:
+### GitHub Stats: -->
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<img src="https://github-readme-stats.vercel.app/api?username=kailashchoudhary11&show_icons=true&theme=jolly" alt="github stats" width="48%" align="left" margin-top="140px"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kailashchoudhary11&show_icons=true&theme=jolly" alt="github stats" width="48%" align="left" margin-top="140px"/>
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashchoudhary11&theme=jolly" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashchoudhary11&theme=jolly" width="48%" > -->
 
 <!-- ### Leetcode Stats:
 
